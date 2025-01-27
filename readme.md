@@ -24,10 +24,14 @@ git clone https://github.com/*** cd mydiff
 pip install -r requirements.txt
 ```
 3. Для запуска скрипта используйте команду:
+* Windows:
+```cmd
+python mydiff.py <путь_к_файлу1> <путь_к_файлу2>
 ```
+* Unix/macOS
+```bash
 python3 mydiff.py <путь_к_файлу1> <путь_к_файлу2>
 ```
-
 
 
 ## Функции:
@@ -203,7 +207,7 @@ normalized_content = normalize(file_content, 'file', '1.2')
 
 **Пример использования:**
 ```python
-cleaned_line = remove_name_ver('path/to/file_v1.2.txt', 'file', '1.2')
+cleaned_line = remove_name_ver('cd path/to/file_v1.2', 'file', '1.2')
 ```
 
 
