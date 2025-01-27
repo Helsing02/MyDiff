@@ -17,7 +17,7 @@
 
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/*** cd mydiff
+git clone https://github.com/Helsing02/MyDiff; cd MyDiff
 ```
 2. Установите зависимости:
 ```
