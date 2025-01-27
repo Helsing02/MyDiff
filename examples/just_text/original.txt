@@ -1,24 +1,21 @@
-Эта часть документа
-оставалась неизменной
-от версии к версии. Если
-в ней нет изменений, она
-не должна отображаться.
-Иначе это не способствует
-выводу оптимального 
-объёма произведённых
-изменений.
+This part of the document
+has remained unchanged from version to version. If
+it has not changed, it
+should not be displayed.
+Otherwise, it does not contribute to
+the optimal
+volume of changes made.
 
-Этот абзац содержит
-устаревший текст.
-Он будет удалён
-в ближайшем будущем.
+This paragraph contains
+outdated text.
+It will be removed
+in the near future.
 
-В этом документе
-необходима провести
-проверку правописания.
-С другой стороны, ошибка
-в слове - не конец света.
-Остальная часть абзаца
-не требует изменений.
-Новый текст можно
-добавлять в конец документа.
+This document
+needs to be spell-checked.
+On the other hand, a misspelled word
+is not the end of the world.
+The rest of the paragraph
+does not require changes.
+New text can be
+added to the end of the document.
